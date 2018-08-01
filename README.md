@@ -1,2 +1,2 @@
-# sawtooth-blockchain-wallet
-A  Sawtooth Application which mainly focuses on particular person's wallet transactions.
+# sawtooth-blockchain-intkey
+A  Sawtooth Application which mainly focuses on creating the intkey.
